@@ -975,7 +975,7 @@ input, select, textarea {
 	font-size: 30px;
 	text-transform: capitalize;
 	font-weight: 600;
-	background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(190, 190, 190));
+	background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(224, 224, 224));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
