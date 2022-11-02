@@ -129,7 +129,7 @@ input, select, textarea {
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
 		color:#1e00fb;
-		/* font-size: 15px; */
+		font-size: 15px;
 		font-weight: bold;		
 	}
 	.video2{
@@ -143,7 +143,6 @@ input, select, textarea {
 		padding-top: -20px !important;
 		line-height: 1.7rem;
 	}
-		
 	#wrapper .intro p{
 		color: #ffffff;
 		line-height: 50px;
@@ -1232,7 +1231,10 @@ input, select, textarea {
 			text-align: center;
 		}
 		span{
-			font-size: 15px;
+			font-size: 40px;
+			color: #9ab2ff;
+			font-weight: bold;	
+			font-family: 'Jua', sans-serif;		
 		} 
 .cursor{
 	cursor: pointer;
