@@ -103,7 +103,7 @@ section {
   }
   @media (max-width: 1000px) {
     .breadcrumbs ol {
-      width: 350px;
+      width: 300px;
       display: flex;
       flex-wrap: wrap;
       list-style: none;
