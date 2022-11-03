@@ -621,4 +621,17 @@ hr{
     color: #4b4b4b;
     letter-spacing: 0;
 }
+}}}
+
+.feature-col h3{
+    width: 400px;
+    margin-top: 1rem;
+    font-size: 13px !important;
+    letter-spacing: 0;
+    font-family: 'Noto Sans KR', sans-serif !important;
+}
+h3 span{
+    font-family: 'Noto Sans KR', sans-serif !important;
+    font-size: 20px;
+    line-height: 3rem;
 }

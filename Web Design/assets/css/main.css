@@ -141,7 +141,7 @@ input, select, textarea {
 		font-weight: 600; 
 		letter-spacing: 0.175em;
 		margin: 0 0 2rem 0;
-		text-transform: uppercase;
+		/* text-transform: uppercase; */
 		font-family: 'Noto Sans KR', sans-serif !important;
 		color: #ff614d;
 	}
@@ -1045,4 +1045,10 @@ span{
 	transform: scale(1.000000005);
 	border-radius: 30px;
 	border: #fdcd65 solid 20px;
+}
+h5 span{
+	font-size: 15px;
+	font-family: 'Noto Sans KR', sans-serif !important;
+	letter-spacing: 0;
+	line-height: 5px;
 }
